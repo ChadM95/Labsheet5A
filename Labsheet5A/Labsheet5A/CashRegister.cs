@@ -5,7 +5,7 @@ namespace TestCashRegister
 	{
 		//Properties
 		public double Total { get; set; }
-		public int Items { get; set; }
+		public int NumberOfItems { get; set; }
 
 
 
@@ -22,9 +22,8 @@ namespace TestCashRegister
 
 		public void AddItem(double price)
 		{
-			Total = Total + price;
-			Items++;
-			Console.WriteLine($"Adding an item worth{price} to ");
+			Total += price;
+			NumberOfItems++;
 		}
     }
 }
