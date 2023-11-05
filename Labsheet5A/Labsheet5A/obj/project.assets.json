@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Chad/ATU/OOSD1/Labsheet5A/Labsheet5A/Labsheet5A/Labsheet5A.csproj",
-      "projectName": "Labsheet5A",
-      "projectPath": "/Users/Chad/ATU/OOSD1/Labsheet5A/Labsheet5A/Labsheet5A/Labsheet5A.csproj",
+      "projectUniqueName": "/Users/Chad/ATU/OOSD1/Labsheet5A/Labsheet5A/Labsheet5A/TestCashRegister.csproj",
+      "projectName": "TestCashRegister",
+      "projectPath": "/Users/Chad/ATU/OOSD1/Labsheet5A/Labsheet5A/Labsheet5A/TestCashRegister.csproj",
       "packagesPath": "/Users/Chad/.nuget/packages/",
       "outputPath": "/Users/Chad/ATU/OOSD1/Labsheet5A/Labsheet5A/Labsheet5A/obj/",
       "projectStyle": "PackageReference",
