@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{5BC6EB12-2433-4715-BBAC-7A242DCA0CA3}|Default">
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.TestCashRegister FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Labsheet5A/CashRegister.cs">
+    <Files>
+      <File FileName="Labsheet5A/CashRegister.cs" Line="26" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Labsheet5A">
+            <Node name="TestCashRegister">
+              <Node name="CashRegister.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>

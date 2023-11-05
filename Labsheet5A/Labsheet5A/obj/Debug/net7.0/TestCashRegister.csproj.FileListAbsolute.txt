@@ -1,0 +1,15 @@
+/Users/Chad/ATU/OOSD1/Labsheet5A/Labsheet5A/Labsheet5A/bin/Debug/net7.0/TestCashRegister
+/Users/Chad/ATU/OOSD1/Labsheet5A/Labsheet5A/Labsheet5A/bin/Debug/net7.0/TestCashRegister.deps.json
+/Users/Chad/ATU/OOSD1/Labsheet5A/Labsheet5A/Labsheet5A/bin/Debug/net7.0/TestCashRegister.runtimeconfig.json
+/Users/Chad/ATU/OOSD1/Labsheet5A/Labsheet5A/Labsheet5A/bin/Debug/net7.0/TestCashRegister.dll
+/Users/Chad/ATU/OOSD1/Labsheet5A/Labsheet5A/Labsheet5A/bin/Debug/net7.0/TestCashRegister.pdb
+/Users/Chad/ATU/OOSD1/Labsheet5A/Labsheet5A/Labsheet5A/obj/Debug/net7.0/TestCashRegister.csproj.AssemblyReference.cache
+/Users/Chad/ATU/OOSD1/Labsheet5A/Labsheet5A/Labsheet5A/obj/Debug/net7.0/TestCashRegister.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Chad/ATU/OOSD1/Labsheet5A/Labsheet5A/Labsheet5A/obj/Debug/net7.0/TestCashRegister.AssemblyInfoInputs.cache
+/Users/Chad/ATU/OOSD1/Labsheet5A/Labsheet5A/Labsheet5A/obj/Debug/net7.0/TestCashRegister.AssemblyInfo.cs
+/Users/Chad/ATU/OOSD1/Labsheet5A/Labsheet5A/Labsheet5A/obj/Debug/net7.0/TestCashRegister.csproj.CoreCompileInputs.cache
+/Users/Chad/ATU/OOSD1/Labsheet5A/Labsheet5A/Labsheet5A/obj/Debug/net7.0/TestCashRegister.dll
+/Users/Chad/ATU/OOSD1/Labsheet5A/Labsheet5A/Labsheet5A/obj/Debug/net7.0/refint/TestCashRegister.dll
+/Users/Chad/ATU/OOSD1/Labsheet5A/Labsheet5A/Labsheet5A/obj/Debug/net7.0/TestCashRegister.pdb
+/Users/Chad/ATU/OOSD1/Labsheet5A/Labsheet5A/Labsheet5A/obj/Debug/net7.0/TestCashRegister.genruntimeconfig.cache
+/Users/Chad/ATU/OOSD1/Labsheet5A/Labsheet5A/Labsheet5A/obj/Debug/net7.0/ref/TestCashRegister.dll

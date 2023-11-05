@@ -9,7 +9,7 @@ namespace TestCashRegister
 
 
 
-		//Constructor
+		//Constructor not needed
 		public CashRegister()
 		{
 		}
